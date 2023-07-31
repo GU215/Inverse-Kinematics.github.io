@@ -6,8 +6,8 @@
 
 
 // 関節数と長さを変数で変更可能
-const Length = 500;
-const Number = 10;
+const Length = 600;
+const Number = 2;
 
 // キャンバスの初期化
 const c = document.querySelector("canvas");
